@@ -4,7 +4,7 @@ A vanilla JavaScript starter project that uses Parcel.js and includes Jest, @tes
 
 ## Scripts
 
-- `start` - Starts a development server on port 1234
+- `start` - Starts a development server on port `1234`
 - `build` - Builds production code
 - `test` - Runs jest tests
 - `lint` - Runs ESLint code linter
