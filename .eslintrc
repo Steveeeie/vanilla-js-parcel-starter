@@ -1,0 +1,12 @@
+{
+  "extends": ["plugin:jest/recommended", "plugin:prettier/recommended"],
+  "plugins": ["jest", "prettier"],
+  "parser": "babel-eslint",
+  "parserOptions": {
+    "sourceType": "module",
+    "allowImportExportEverywhere": true
+  },
+  "rules": {
+    "prettier/prettier": "error"
+  }
+}

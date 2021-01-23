@@ -1,0 +1,20 @@
+*,
+*:before,
+*:after {
+  border: 0;
+  box-sizing: border-box;
+  font: inherit;
+  margin: 0;
+  padding: 0;
+}
+
+html,
+body {
+  height: 100%;
+}
+
+body {
+  border: 8px solid red;
+  font-size: 18px;
+  font-family: sans-serif;
+}

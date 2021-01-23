@@ -1,0 +1,10 @@
+.greeting {
+  align-items: center;
+  color: red;
+  display: flex;
+  font-size: 2rem;
+  font-weight: bolder;
+  height: 100%;
+  justify-content: center;
+  width: 100%;
+}
