@@ -6,6 +6,6 @@ A simple vanilla JavaScript starter project that uses Parcel.js and includes Jes
 
 - `start` - Starts a development server on port `1234`
 - `build` - Builds production code
+- `lint` - Runs ESLint linter
 - `test` - Runs jest tests
-- `lint` - Runs ESLint code linter
 - `test:coverage` - Runs jest tests and generates a coverage report
