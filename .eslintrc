@@ -1,5 +1,9 @@
 {
-  "extends": ["plugin:jest/recommended", "plugin:prettier/recommended"],
+  "extends": [
+    "eslint:recommended",
+    "plugin:jest/recommended",
+    "plugin:prettier/recommended"
+  ],
   "plugins": ["jest", "prettier"],
   "parser": "babel-eslint",
   "parserOptions": {
@@ -8,5 +12,8 @@
   },
   "rules": {
     "prettier/prettier": "error"
+  },
+  "env": {
+    "browser": true
   }
 }

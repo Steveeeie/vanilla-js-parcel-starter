@@ -8,13 +8,21 @@
   padding: 0;
 }
 
+:root {
+  --primary-color: #f44336;
+}
+
 html,
 body {
   height: 100%;
 }
 
 body {
-  border: 8px solid red;
+  border: 8px solid var(--primary-color);
   font-size: 18px;
   font-family: sans-serif;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
 }

@@ -1,4 +1,8 @@
+import image from "./image";
 import greeting from "./greeting";
-import "./index.css";
+import robot from "./robot.gif";
+import "./index.styles.css";
+
+image(robot);
 
 greeting("Hello!");
