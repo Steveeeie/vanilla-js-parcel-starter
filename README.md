@@ -2,6 +2,10 @@
 
 A simple vanilla JavaScript starter project that uses Parcel.js and includes Jest, @testing-library/dom, ESLint and Prettier
 
+![](demo-app.gif)
+![](demo-tests.gif)
+![](demo-lint.gif)
+
 ## Scripts
 
 - `start` - Starts a development server on port `1234`
