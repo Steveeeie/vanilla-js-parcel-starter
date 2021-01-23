@@ -1,4 +1,4 @@
-# vanilla-js-starter
+# vanilla-js-parcel-starter
 
 A simple vanilla JavaScript starter project that uses Parcel.js and includes Jest, @testing-library/dom, ESLint and Prettier
 
